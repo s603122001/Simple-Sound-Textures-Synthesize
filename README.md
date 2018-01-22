@@ -1,16 +1,15 @@
-# AI Gomoku
+# Simple Sound Texture Synthesize
 
 
-Using Monte Carlo Tree Search (MCTS) to play [Gomoku] (Five in a Row).
+Using statistic methods to synthesize sound of textures in python.
 
-### Compile and Execution
+### Dependencies
 
-AI Gomoku requires C++11.
+This repository requires following packages:
 
-```sh
-$ g++ -std=c++11 main.cpp Board_Function.h MCST.h
-$ ./ a.out
-```
+- python 2.7
+
+
 
 ### Todos
 
