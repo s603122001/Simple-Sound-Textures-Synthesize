@@ -7,6 +7,7 @@ This is a simple implementation for the algorithm described in
 
 *Syhthesis of sound textures with tonal components using summary statistic and all-pole residual modeling*<br/>
 *Kim, Hyung-Suk, and Julius Smith*<br/>
+*DAFx-16*<br/>
 
 
 ### Dependencies
