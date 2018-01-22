@@ -1,4 +1,4 @@
-# Simple Sound Texture Synthesize
+# Simple Sound Textures Synthesize
 
 
 Using statistic methods to synthesize sound of textures in python.
