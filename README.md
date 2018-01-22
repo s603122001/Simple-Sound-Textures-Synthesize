@@ -5,8 +5,8 @@ Using statistic methods to synthesize sound of textures in python.
 
 This is a simple implementation for the algorithm described in 
 
-Syhthesis of sound textures with tonal components using summary statistic and all-pole residual modeling
-Kim, Hyung-Suk, and Julius Smith
+*Syhthesis of sound textures with tonal components using summary statistic and all-pole residual modeling
+*Kim, Hyung-Suk, and Julius Smith
 
 
 ### Dependencies
