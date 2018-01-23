@@ -17,7 +17,25 @@ This repository requires following packages:
 - python 2.7
 - numpy
 - essentia
+- librosa
 - gammatone
+
+### Usage
+
+```sh
+usage: SoundTextureSynth.py [-h] [-i INPUT_PATH] [-o OUTPUT_PATH]
+                            [-l OUTPUT_LENGTH] [-fs SAMPLE_RATE]
+                            [-it ITER_TIME] [-lr LEARNING_RATE]
+                            
+arguments:
+  -h
+  -i
+  -o
+  -l
+  -fs
+  -it
+  -lr
+```
 
 
 ### Todos
