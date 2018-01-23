@@ -22,7 +22,7 @@ This repository requires following packages:
 
 ### Usage
 
-```sh
+```
 usage: SoundTextureSynth.py [-h] [-i INPUT_PATH] [-o OUTPUT_NAME]
                             [-l OUTPUT_LENGTH] [-fs SAMPLE_RATE]
                             [-it ITER_TIME] [-lr LEARNING_RATE]
