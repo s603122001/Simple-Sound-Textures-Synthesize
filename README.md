@@ -1,7 +1,7 @@
 # Simple Sound Textures Synthesize
 
 
-Using statistic methods to synthesize sound of textures in python.
+Using statistic methods to synthesize sound of textures from white noise.
 
 This is a simple implementation for the algorithm described in 
 
