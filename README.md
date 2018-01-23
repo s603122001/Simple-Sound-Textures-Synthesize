@@ -23,15 +23,16 @@ This repository requires following packages:
 ### Usage
 
 ```sh
-usage: SoundTextureSynth.py [-h] [-i INPUT_PATH] [-o OUTPUT]
+usage: SoundTextureSynth.py [-h] [-i INPUT_PATH] [-o OUTPUT_NAME]
                             [-l OUTPUT_LENGTH] [-fs SAMPLE_RATE]
                             [-it ITER_TIME] [-lr LEARNING_RATE]
                             
 required arguments:
   -i  INPUT_PATH     path to input file (source audio)
+  
 optional arguments:
   -h
-  -o  OUTPUT         name of output file (default = 'out.wav')
+  -o  OUTPUT_NAME    name of output file (default = 'out.wav')
   -l  OUTPUT_LENGTH  length of output file(in seconds) (default = 5)
   -fs SAMPLE_RATE    sample rate (default = 44100)
   -it ITER_TIME      Maximum iteration time for gradient decent(in seconds) (default = 60)
