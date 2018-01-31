@@ -239,7 +239,7 @@ def main():
     # parse arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input_path', help = "path to inpupt file (source audio)",
-                        type = str)
+                        type = str, default = 'original_Bubble.wav')
     parser.add_argument('-o', '--output_name', help = "name of output file",
                         type = str, default = 'out.wav')
     parser.add_argument('-l', '--output_length', help = "length of output file(in seconds)",
